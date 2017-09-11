@@ -1,0 +1,22 @@
+{
+  "name": "Socket-Chat-Example",
+  "description": "",
+  "website": "",
+  "repository": "https://github.com/resheilpm/res-chat-app.git",
+  "logo": "",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/resheilpm/res-chat-app.git"
+  }
+}
