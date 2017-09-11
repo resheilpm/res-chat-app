@@ -17,6 +17,6 @@
   "addons": [
   ],
   "env": {
-    "BUILDPACK_URL": "https://github.com/resheilpm/res-chat-app.git"
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
   }
 }
